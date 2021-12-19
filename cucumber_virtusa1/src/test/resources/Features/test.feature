@@ -1,5 +1,5 @@
 Feature: Title of your feature
-@SmokeTest
+
   Scenario: Login with a valid-user
     Given the user is on the Home page
     And the user navigates to the Login page
